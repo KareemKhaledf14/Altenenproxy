@@ -5,6 +5,7 @@ require(__DIR__ . "/../config.php");
 <!DOCTYPE html>
 <html lang="en">
 <head>
+<meta name="a.validate.01" content="ef7ab4b50f3d6e400f29a340629b237abb20" />
     <title><?php echo $config['website-name']; ?></title>
     <meta charset="utf-8">
     <meta name="description" content="<?php echo $config["website-description"]; ?>">
